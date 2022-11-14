@@ -1,0 +1,1 @@
+update transactions set date_transactions = '2022-10-1' where ID=12;

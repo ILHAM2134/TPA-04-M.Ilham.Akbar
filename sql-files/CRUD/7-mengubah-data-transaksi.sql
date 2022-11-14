@@ -1,0 +1,1 @@
+update transactions set name = 'batik utk datang ke nikahan mantan' where ID = 10;
